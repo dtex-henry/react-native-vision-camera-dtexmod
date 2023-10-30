@@ -1,0 +1,12 @@
+# ninja log v5
+22	380	7192209327486559	CMakeFiles/VisionCamera.dir/src/main/cpp/java-bindings/JHashMap.cpp.o	ae7bc796ad6255b4
+6	1160	7192209335143189	CMakeFiles/VisionCamera.dir/src/main/cpp/JSIJNIConversion.cpp.o	b716c39d9dab2151
+19	408	7192209327761574	CMakeFiles/VisionCamera.dir/src/main/cpp/java-bindings/JImageProxy.cpp.o	4e80b5274d4f6996
+14	412	7192209327806575	CMakeFiles/VisionCamera.dir/src/main/cpp/java-bindings/JFrameProcessorPlugin.cpp.o	7bf252f26573eda4
+16	546	7192209329111575	CMakeFiles/VisionCamera.dir/src/main/cpp/VisionCameraScheduler.cpp.o	4278f3b001b66b59
+8	590	7192209329536574	CMakeFiles/VisionCamera.dir/src/main/cpp/FrameHostObject.cpp.o	7e31c2f0b1e66b39
+11	975	7192209333303205	CMakeFiles/VisionCamera.dir/src/main/cpp/CameraView.cpp.o	db221d015eff11f7
+0	1210	7192209335698176	CMakeFiles/VisionCamera.dir/src/main/cpp/VisionCamera.cpp.o	54cefea2d4de0edb
+3	1853	7192209342012097	CMakeFiles/VisionCamera.dir/src/main/cpp/FrameProcessorRuntimeManager.cpp.o	d0fbbbe926420ed
+4	184	7193945198563194	../../../../build/intermediates/cxx/Debug/3g61575o/obj/armeabi-v7a/libVisionCamera.so	32ea6211b5d62225
+5	99	7193990936260925	../../../../build/intermediates/cxx/Debug/3g61575o/obj/armeabi-v7a/libVisionCamera.so	32ea6211b5d62225

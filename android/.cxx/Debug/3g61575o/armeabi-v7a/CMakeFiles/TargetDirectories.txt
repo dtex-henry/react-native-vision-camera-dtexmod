@@ -1,0 +1,3 @@
+D:/dtexg3_mobile_insight/node_modules/react-native-vision-camera/android/.cxx/Debug/3g61575o/armeabi-v7a/CMakeFiles/VisionCamera.dir
+D:/dtexg3_mobile_insight/node_modules/react-native-vision-camera/android/.cxx/Debug/3g61575o/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/dtexg3_mobile_insight/node_modules/react-native-vision-camera/android/.cxx/Debug/3g61575o/armeabi-v7a/CMakeFiles/rebuild_cache.dir
